@@ -1,4 +1,8 @@
-# generator-codesandwich [![Build Status](https://secure.travis-ci.org/codemeasandwich/generator-codesandwich.png?branch=master)](https://travis-ci.org/codemeasandwich/generator-codesandwich)
+# generator-codesandwich 
+
+<img src="http://files.codemeasandwich.com/gen/logo.png" width="338" height="242" alt="CodeSandwich Generator Logo">
+
+[![Build Status](https://secure.travis-ci.org/codemeasandwich/generator-codesandwich.png?branch=master)](https://travis-ci.org/codemeasandwich/generator-codesandwich)
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -8,8 +12,6 @@
 ### What is Yeoman?
 
 Trick question. It's not a thing. It's this guy:
-
-![](http://i.imgur.com/JHaAlBJ.png)
 
 Basically, he wears a top hat, lives in your computer, and waits for you to tell him what kind of application you wish to create.
 
